@@ -1,6 +1,5 @@
-# AndroidApkShell
 
-#导出已经安装的apk:
+# >导出已经安装的apk:
 
 
 1.查看已经安装的apk
