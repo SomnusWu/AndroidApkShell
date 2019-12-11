@@ -2,7 +2,7 @@
 # 导出已经安装的apk:
 
 
-> 查看已经安装的apk
+> ** 查看已经安装的apk **
 adb shell pm list package
 
 > 点击打开需要导出的应用，让其处于第一窗口，执行以下命令可以输入当前窗口的Activity
