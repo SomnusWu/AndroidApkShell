@@ -24,8 +24,8 @@
 
 adb pull app安装路径 保存路径
 
-eg: ```adb pull /system/app/AutoControl/AutoControl.apk```
-C:\Users\Somnus\Desktop\apk安装脚本
+eg: ```adb pull /system/app/AutoControl/AutoControl.apk
+C:\Users\Somnus\Desktop\apk安装脚本```
 
 
 
